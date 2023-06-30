@@ -1,0 +1,5 @@
+MONGO_URI=mongodb://localhost:27017
+MONGO_DB_NAME=your_database_name
+MONGO_COLLECTION_NAME=your_collection_name
+AWS_REGION=us-east-1
+DYNAMODB_TABLE_NAME=your_table_name

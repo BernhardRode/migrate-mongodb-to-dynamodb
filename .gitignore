@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+
+# MongoDB
+data/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+/venv/
+/env/
+
+# Miscellaneous
+.DS_Store
+.env
+.envrc
